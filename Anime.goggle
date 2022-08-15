@@ -5,9 +5,10 @@
 ! avatar: #254181
 
 $downrank,site=en.wikipedia.org
+$downrank,site=ne.wikipedia.org
 
 $boost=3,site=myanimelist.net
 $boost=3,site=anilist.co
-$boost=3,site=9anime.id.com
+$boost=3,site=9anime.id/home
 $boost=3,site=crunchyroll.com
 $boost=3,site=funimation.com
