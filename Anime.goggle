@@ -1,0 +1,13 @@
+! name: Anime
+! description: Rerank results to boost content on anime Currently consists of myanimelist, anilist, crunchyroll, 9anime and funimation.
+! public: true
+! author: Rupak Sapkota
+! avatar: #254181
+
+$downrank,site=en.wikipedia.org
+
+$boost=3,site=myanimelist.net
+$boost=3,site=anilist.co
+$boost=3,site=9anime.id.com
+$boost=3,site=crunchyroll.com
+$boost=3,site=funimation.com
